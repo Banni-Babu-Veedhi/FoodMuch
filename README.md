@@ -1,2 +1,2 @@
 # FoodMuch Website
-it is a website to showcase and sell the food items through online.
+The Food Website, created by myself, offers a variety of food products for online sale with delivery services. Customers can browse through different food items and place an order conveniently from the comfort of their own home. The website aims to provide a hassle-free shopping experience and ensure that customers receive their orders in a timely and efficient manner. Whether it's for a quick snack or a ready-to-eat meal, the Food Website has something for everyone.
